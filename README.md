@@ -1,6 +1,6 @@
 # ESTIMATION-OF-BUSINESS-EXPENSES-PROJECT
 
-****STORY 1 PUBLIC LINK**-https://public.tableau.com/shared/6RN8MC7N8?:display_count=n&:origin=viz_share_link
+**STORY 1 PUBLIC LINK**-https://public.tableau.com/shared/6RN8MC7N8?:display_count=n&:origin=viz_share_link
 
 **STORY 2 PUBLIC LINK**-https://public.tableau.com/shared/YYMJ36TH5?:display_count=n&:origin=viz_share_link
 
